@@ -43,6 +43,7 @@
 			children = (
 				00F3AF352430BE540078C263 /* GuessTheFlag */,
 				00F3AF342430BE540078C263 /* Products */,
+				00F3AF4A2431F25A0078C263 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -60,7 +61,6 @@
 				00F3AF362430BE540078C263 /* AppDelegate.swift */,
 				00F3AF382430BE540078C263 /* SceneDelegate.swift */,
 				00F3AF3A2430BE540078C263 /* ContentView.swift */,
-				00F3AF4A2431F25A0078C263 /* README.md */,
 				00F3AF3C2430BE580078C263 /* Assets.xcassets */,
 				00F3AF412430BE580078C263 /* LaunchScreen.storyboard */,
 				00F3AF442430BE580078C263 /* Info.plist */,
